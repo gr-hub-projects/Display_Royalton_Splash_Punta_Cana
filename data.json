@@ -3,98 +3,66 @@
     "type": "JSON",
     "content": [
       {
-        "id": "147222543",
-        "Flight": "WS2913",
-        "PickupDate": "2025-10-30",
-        "PickupTime": "11:30",
-        "HotelName": "Royalton Splash Punta Cana Resort and Spa",
-        "HotelNumber": 15810
-      },
-      {
-        "id": "145177042",
+        "id": "144859933",
         "Flight": "WS2743",
-        "PickupDate": "2025-10-30",
+        "PickupDate": "2025-10-31",
         "PickupTime": "14:15",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
       {
-        "id": "10888SF634146",
-        "Flight": "TBA000",
-        "PickupDate": "2025-10-30",
-        "PickupTime": "⚠️",
-        "HotelName": "Royalton Splash Punta Cana Resort and Spa",
-        "HotelNumber": 15810
-      },
-      {
-        "id": "10888SF700003",
-        "Flight": "WS2103",
-        "PickupDate": "2025-10-30",
+        "id": "145309133",
+        "Flight": "WS2913",
+        "PickupDate": "2025-10-31",
         "PickupTime": "11:15",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
       {
-        "id": "10888SF700049",
-        "Flight": "WS2103",
-        "PickupDate": "2025-10-30",
+        "id": "144679023",
+        "Flight": "WS2913",
+        "PickupDate": "2025-10-31",
         "PickupTime": "11:15",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
       {
-        "id": "147455103",
-        "Flight": "WS2743",
-        "PickupDate": "2025-10-30",
-        "PickupTime": "14:15",
+        "id": "461-2647783",
+        "Flight": "CM327",
+        "PickupDate": "2025-10-31",
+        "PickupTime": "11:00",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
       {
-        "id": "144193183",
+        "id": "145309093",
         "Flight": "WS2913",
-        "PickupDate": "2025-10-30",
-        "PickupTime": "11:30",
+        "PickupDate": "2025-10-31",
+        "PickupTime": "11:15",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
       {
-        "id": "4318190",
-        "Flight": "DM0800",
-        "PickupDate": "2025-10-30",
-        "PickupTime": "04:15",
+        "id": "143920743",
+        "Flight": "WS2913",
+        "PickupDate": "2025-10-31",
+        "PickupTime": "11:15",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
       {
-        "id": "141672892",
-        "Flight": "WS2743",
-        "PickupDate": "2025-10-30",
-        "PickupTime": "14:15",
+        "id": "145839263",
+        "Flight": "WS2913",
+        "PickupDate": "2025-10-31",
+        "PickupTime": "11:15",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
       {
-        "id": "4302964",
-        "Flight": "WN822",
-        "PickupDate": "2025-10-30",
-        "PickupTime": "11:50",
-        "HotelName": "Royalton Splash Punta Cana Resort and Spa",
-        "HotelNumber": 15810
-      },
-      {
-        "id": "144531953",
-        "Flight": "WS2743",
-        "PickupDate": "2025-10-30",
-        "PickupTime": "14:15",
-        "HotelName": "Royalton Splash Punta Cana Resort and Spa",
-        "HotelNumber": 15810
-      },
-      {
-        "id": "10888SF665765",
-        "Flight": "TBA000",
-        "PickupDate": "2025-10-30",
-        "PickupTime": "⚠️",
+        "id": "144679113",
+        "Flight": "WS2913",
+        "PickupDate": "2025-10-31",
+        "PickupTime": "11:15",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       }
