@@ -3,14 +3,6 @@
     "type": "JSON",
     "content": [
       {
-        "id": "10888SF629812",
-        "Flight": "TBA000",
-        "PickupDate": "2025-11-28",
-        "PickupTime": "⚠️",
-        "HotelName": "Royalton Splash Punta Cana Resort and Spa",
-        "HotelNumber": 15810
-      },
-      {
         "id": "10888SF643127",
         "Flight": "UPP000",
         "PickupDate": "2025-11-28",
@@ -60,9 +52,9 @@
       },
       {
         "id": "10888SF631584",
-        "Flight": "TBA000",
+        "Flight": "AA1324",
         "PickupDate": "2025-11-28",
-        "PickupTime": "⚠️",
+        "PickupTime": "10:55",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
