@@ -75,18 +75,18 @@
         "HotelNumber": 15810
       },
       {
-        "id": "142920525",
-        "Flight": "WS2679",
+        "id": "144341103",
+        "Flight": "WS2675",
         "PickupDate": "2025-12-29",
-        "PickupTime": "07:00",
+        "PickupTime": "14:05",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
       {
         "id": "144341103",
-        "Flight": "WS2675",
+        "Flight": "WS2743",
         "PickupDate": "2025-12-29",
-        "PickupTime": "14:05",
+        "PickupTime": "15:15",
         "HotelName": "Royalton Splash Punta Cana Resort and Spa",
         "HotelNumber": 15810
       },
